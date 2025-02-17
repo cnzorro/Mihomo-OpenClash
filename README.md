@@ -18,3 +18,7 @@ from 科技探索者
 # YouTube 频道：科技探索者
 # 使用此配置，请保留原作者信息，尊重作者
 
+# Mihomo
+from 七尺宇
+插件下载地址：
+https://github.com/kiddin9/openwrt-packages?tab=readme-ov-file
