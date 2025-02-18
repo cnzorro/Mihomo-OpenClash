@@ -18,8 +18,6 @@ OpenClash全网最简单使用教程 | 订阅和上传yaml配置两种方式，�
 视频文件下载：https://github.com/qichiyuhub/rule/tree/master/config/Clash 下载其中的两个文件即可，
 openclash文件下载下来可能是openclash.txt 把扩展名去掉即可。 视频中所有配置均可提供定制，进群联系我即可！
 
-
-
 # Mihomo
 from 科技探索者
 ### 一份人人看得懂的通用配置文件 ###
@@ -33,3 +31,23 @@ from 科技探索者
 from 七尺宇
 插件下载地址：
 https://github.com/kiddin9/openwrt-packages?tab=readme-ov-file
+
+# Mihomo
+from qichiyu
+MihomoTproxy插件仓库（插件已经改名，现叫Nikki）：https://github.com/nikkinikki-org/OpenWrt-nikki
+yaml配置文件代理下载：
+https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/config/Clash/config.yaml
+
+yaml配置文件直连下载：
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/config/Clash/config.yaml
+
+fakeip过滤列表添加：
+geosite:private
+geosite:cn
+
+视频中演示openwrt固件下载：https://firmware-selector.immortalwrt.org
+
+
+
+
+
