@@ -45,7 +45,16 @@ fakeip过滤列表添加：
 geosite:private
 geosite:cn
 
-视频中演示openwrt固件下载：https://firmware-selector.immortalwrt.org
+视频中演示openwrt(immortalwrt)固件下载：https://firmware-selector.immortalwrt.org
+
+下载适用于您设备的 ImmortalWrt 固件
+输入设备的名称或型号，然后选择一个稳定或快照版本。
+FriendlyARM NanoPi R2S
+关于此构建
+型号:FriendlyARM NanoPi R2S
+平台:rockchip/armv8
+版本:24.10.0 (r32824-6a73dae98c9c)
+自定义预安装软件包和/或首次启动脚本
 
 
 
